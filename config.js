@@ -44,11 +44,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'https://www.instagram.com/umair-ameen'
+global.sgh = 'https://github.com/umairjani'
+global.sgc = 'https://chat.whatsapp.com/HbEkP1VfwdzDR911LxOTog'
 global.sdc = " "
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = 'https://nhentai.net/g/22222/'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085334930628'
@@ -59,18 +59,18 @@ global.ppulsa2 = '081336990781'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '923264639540'
+global.nomorown = '923264639540'
+global.namebot = 'umair don'
+global.nameown = 'umair-jani'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['923264639540'],
+  ['923264639540'],
+  ['923264639540'],
+  ['923264639540', 'umair-jani', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -131,7 +131,7 @@ global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broad
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-
+oh
 /*============== TEXT ==============*/
 global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
@@ -158,8 +158,8 @@ global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
 global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
-global.cmenut = '❏––––––『'                       //top
-global.cmenuh = '』––––––'                        //header
+global.cmenut = '❏–––Umair–––『'                       //top
+global.cmenuh = '』–––Don–––'                        //header
 global.cmenub = '┊✦ '                            //body
 global.cmenuf = '┗━═┅═━––––––๑\n'                //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
